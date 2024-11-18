@@ -1,0 +1,16 @@
+/* File: src/Drawing.css */
+.drawing-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+  }
+  
+  .ascii-art {
+    font-family: monospace; /* Preserva il layout */
+    white-space: pre; /* Mantiene gli spazi */
+    font-size: 14px;
+    color: #333;
+  }
+  
